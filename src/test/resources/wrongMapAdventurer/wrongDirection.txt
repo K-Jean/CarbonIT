@@ -1,0 +1,4 @@
+# One comment
+C - 3 - 4
+# T is not a valid direction
+A - Lara - 1 - 1 - T - AADADAGGA
